@@ -1,5 +1,7 @@
 # Nova.Ann
 
+Based on figtree (by Vlad I. Morariu, 2008-12-05)
+
 ----------------------------------------------------------------------------
 
 This is a modified version of ANN version 1.1.1.  It was modified for use with the figtree library.
